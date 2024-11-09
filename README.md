@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<p align="left">My name is Ryan. and I'm among many others, one more passionate about programming.</p>
+<p align="left">My name is Ryan, I'm Software Developer.</p>
 
 ###
 
