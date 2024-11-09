@@ -4,13 +4,13 @@
 
 <br clear="both">
 
-<p align="left">Pazer, sou o Ryan e sou Desenvolvedor de Software.</p>
+<p align="left">Pazer,  sou o Ryan e sou Desenvolvedor de Software.</p>
 
 ###
 
 <br clear="both">
 
-<h2 align="left">Um pouco sobre, Ryan</h2>
+<h2 align="left">Um pouco sobre <strong>Ryan</strong></h2>
 
 ###
 
