@@ -10,7 +10,7 @@
 
 <br clear="both">
 
-<h2 align="left">Um pouco sobre <strong>Ryan</strong></h2>
+<h2 align="left">Um pouco sobre Ryan</h2>
 
 ###
 
