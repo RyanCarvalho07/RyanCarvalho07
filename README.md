@@ -1,28 +1,28 @@
-<h1 align="left">Hey 👋 welcome</h1>
+<h1 align="left">Opa👋 Bem vindo</h1>
 
 ###
 
 <br clear="both">
 
-<p align="left">My name is Ryan, I'm Software Developer.</p>
+<p align="left">Pazer, sou o Ryan e sou Desenvolvedor de Software.</p>
 
 ###
 
 <br clear="both">
 
-<h2 align="left">About me</h2>
+<h2 align="left">Um pouco sobre, Ryan</h2>
 
 ###
 
 <br clear="both">
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning  Java♨️<br>🎯 Goals: Helping people through programming, and encouraging other people to learn programming.<br>🎲 Fun fact: Quantum computing and Artificial intelligence.</p>
+<p align="left">✨ Criando bugs desde 2022<br>📚 Aprofundando os conhecimentos sobre Java e POO♨️<br>🎯 Objetivos: Poder ajudar pessoas através da programção.<br>🎲 Curiosidade: Computação quântica e inteligência artificial.</p>
 
 ###
 
 <br clear="both">
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Linguagens</h2>
 
 ###
 
