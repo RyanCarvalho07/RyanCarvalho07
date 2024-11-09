@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<p align="left">Pazer,  sou o Ryan e sou Desenvolvedor de Software.</p>
+<p align="left">Pazer, meu nome é Ryan e sou Desenvolvedor de Software.</p>
 
 ###
 
