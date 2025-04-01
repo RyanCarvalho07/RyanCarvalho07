@@ -4,11 +4,9 @@
 ```Java
 Public Class Main{
 public static void(String[] args){
-   String nome = "Ryan";
-   int idade  = 21;
-   System.out.println("Olá, Meu nome é " + nome + " e tenho " + idade + " anos."};
+   String nome = "Ryan"; 
+   System.out.println("Olá, Meu nome é " + nome);
  }
-
  }
 }
 ```
@@ -22,7 +20,7 @@ public static void(String[] args){
 
 <br clear="both">
 
-<p align="left">✨ Criando bugs desde 2022<br>📚 Aprofundando os conhecimentos sobre Java e POO♨️<br>🎯 Objetivos: Poder ajudar pessoas através da programção.<br>🎲 Curiosidade: Computação quântica e inteligência artificial.</p>
+<p align="left">✨ Criando bugs desde 2022<br>📚 Análise e Desenvolvimento de Sistemas</p>
 
 ###
 
