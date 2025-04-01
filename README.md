@@ -2,13 +2,7 @@
 
 ###
 ```Java
-Public Class Main{
-public static void(String[] args){
-   String nome = "Ryan"; 
-   System.out.println("Olá, Meu nome é " + nome);
- }
- }
-}
+   System.out.println("Olá, meu nome é Ryan e tenho 21 anos");   
 ```
 ###
 
