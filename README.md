@@ -4,12 +4,6 @@
 
 <br clear="both">
 
-<p align="left">Prazer, meu nome é Ryan e sou Desenvolvedor de Software.</p>
-
-###
-
-<br clear="both">
-
 <h2 align="left">Um pouco sobre Ryan</h2>
 
 ###
