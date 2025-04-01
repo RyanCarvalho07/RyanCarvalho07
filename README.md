@@ -1,5 +1,8 @@
 ```Java
-   System.out.println("Olá, Seja bem vindo(a), me chamo Ryan");   
+  public static String saudacao(String nome) {
+    String nome = "Ryan"; 
+    return "Olá, Seja bem-vindo(a), me chamo " + nome + "!";
+}   
 ```
 ###
 
@@ -11,7 +14,7 @@
 
 <br clear="both">
 
-<p align="left">✨ Explorando o mundo da programação desde 2022 e sempre buscando evoluir.<br>📚 Análise e Desenvolvimento de Sistemas</p>
+<p align="left">✨ Explorando o mundo da programação desde 2022 e sempre buscando evoluir.<br>📚 Análise e Desenvolvimento de Sistemas<br>🎯 Construir soluções eficientes e compartilhar conhecimento com a comunidade.</p>
 
 ###
 
