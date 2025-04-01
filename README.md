@@ -1,8 +1,8 @@
-<h1 align="left">Olá👋 Bem vindo(a)</h1>
+<h1 align="left">Bem vindo(a)</h1>
 
 ###
 ```Java
-   System.out.println("Olá, meu nome é Ryan e tenho 21 anos");   
+   System.out.println("Olá, meu nome Ryan");   
 ```
 ###
 
@@ -14,7 +14,7 @@
 
 <br clear="both">
 
-<p align="left">✨ Criando bugs desde 2022<br>📚 Análise e Desenvolvimento de Sistemas</p>
+<p align="left">✨ Explorando o mundo da programação desde 2022 e sempre buscando evoluir.<br>📚 Análise e Desenvolvimento de Sistemas</p>
 
 ###
 
