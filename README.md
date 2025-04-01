@@ -1,6 +1,18 @@
 <h1 align="left">Olá👋 Bem vindo(a)</h1>
 
 ###
+```Java
+Public Class Main{
+public static void(String[] args){
+   String nome = "Ryan";
+   int idade  = 21;
+   System.out.println("Olá, Meu nome é " + nome + " e tenho " + idade + " anos."};
+ }
+
+ }
+}
+```
+###
 
 <br clear="both">
 
