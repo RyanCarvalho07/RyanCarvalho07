@@ -1,5 +1,5 @@
 ```Java
-  public static String saudacao() {
+  public String saudacao() {
       String nome = "Ryan"; 
       return "Olá, Seja bem-vindo(a), me chamo " + nome + "!";
 }   
